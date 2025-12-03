@@ -12,8 +12,8 @@
     {
       "name": "Wireless Communication Engineering Laboratory, Manipal University Jaipur",
       "position": "Associate Researcher in Study of Spectrum Sensing Techniques",
-      "startDate": "Feb 2022",
-      "endDate": "Feb 2023",
+      "startDate": "Mar 2022",
+      "endDate": "Mar 2023",
       "location": "Jaipur, India",
       "summary": "Implemented a physical experimental setup for energy detection-based spectrum sensing using Software Defined Radio (SDR) and GNU Radio. Addressed challenges in spectrum sensing, such as processing delay, false alarms, misdetection, and weak signal detection. Developed and tested efficient spectrum sensing algorithms to improve detection performance. Performed statistical data analysis and interpretation of the experimental results to validate the effectiveness of the implemented system. Contributed to the development of a flexible and scalable spectrum sensing test bench for future research.",
       "highlights": ["Algorithms", "Spectrum Sensing", "Cognitive Radio", "Signal Processing", "Software-Defined Radio (SDR)"]
